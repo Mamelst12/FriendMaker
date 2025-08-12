@@ -1,8 +1,6 @@
 # 🚀 친구를 만들어 봅시다! - FriendMaker
 ### Discord.py FriendMaker - v0.1
 
----
-
 ## How to run 💫
 
 * #### Supplies
